@@ -1,0 +1,15 @@
+[
+  {
+    "name": "petal_length",
+    "type": "double"
+  }, {
+    "name": "petal_width",
+    "type": "double"
+  }, {
+    "name": "sepal_length",
+    "type": "double"
+  }, {
+    "name": "sepal_width",
+    "type": "double"
+  }
+]
